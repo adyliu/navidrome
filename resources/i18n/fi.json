@@ -54,7 +54,11 @@
                 "comment": "Kommentti",
                 "rating": "Arvostelu",
                 "createdAt": "Lisätty",
-                "size": "Koko"
+                "size": "Koko",
+                "originalDate": "",
+                "releaseDate": "",
+                "releases": "",
+                "released": ""
             },
             "actions": {
                 "playAll": "Soita",
